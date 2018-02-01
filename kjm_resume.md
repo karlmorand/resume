@@ -1,11 +1,10 @@
 # Karl Morand
+**Web Developer**  
 [karlmorand.com](https://karlmorand.com/)  
 Cincinnati, Ohio
 
-## Experience
-### Freelance Web Developer
-*August 2017 - Present*  
-#### OMPT-NY Site Rebuild  
+## Current Projects
+### OMPT-NY Site Rebuild  
 Multilingual site where clients can see information about the clinic, register for classes, and pay for membership cards. Staff can create new classes and schedules, see who has paid for membership cards, and update the status of each membership. Projected to launch end of February.
 - React  
 - Bootstrap
@@ -14,13 +13,14 @@ Multilingual site where clients can see information about the clinic, register f
 - Passport for auth
 - Stripe API
 
-#### Broccoli Clean Eating Tracker
+### Broccoli Clean Eating Tracker
 React Native mobile app and backend for gyms to run clean eating challenges. Users can track their daily adherence to the challenge goals, view and edit their previous entries, and see how they compare to other users on the gym's leaderboard. Currently beta testing mobile app and web backend.
 - React Native
 - Node.js + Express
 - MongoDB
 - Auth0
 
+## Past Work  
 ### [FamilyTech](http://familytech.com/)
 **Software Engineer**  
 *February 2017 - August 2017*  
