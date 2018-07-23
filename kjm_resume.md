@@ -50,11 +50,6 @@ I built a custom visualization interface for a healthcare app that enabled patie
 - Highcharts
 - jQuery
 
-### General Assembly Web Development Immersive
-
-_June 2016 - September 2016_  
-Full­ stack web development program focused on common best practices in object­-oriented programming, MVC frameworks, data modeling, and test­-driven development. Developed a portfolio of individually focused and collaboratively focused projects using HTML, CSS, jQuery, Angular, Ruby on Rails, Node.js, Express, and MongoDB.
-
 ### Podcast Producer
 
 _December 2012 - Present_  
