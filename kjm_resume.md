@@ -8,20 +8,20 @@ Cincinnati, Ohio
 
 ### Spry Labs
 
-Website redesign for Spry Labs, a venture building studio in Cincinnati, OH.
+Ongoing website redesign for Spry Labs, a venture building studio in Cincinnati, OH.
 
 - React
 - Gatsby
 
 ### iReportSource
 
-iReport is a platform that enables users to find, report and fix hazards in the workplace. I build a greenfield React Native mobile app (iOS and Android) to replace their existing app.
+iReport is a platform that enables users to find, report and fix hazards in the workplace. I built a greenfield React Native mobile app (iOS and Android) to replace their existing mobile app.
 
 - React Native
 
 ### Joey
 
-Joey connects people and businesses that need something shipped with drivers that can load, haul, and deliver it. I worked on the React Native mobile app, Node backend, and React consumer mobile website.
+Joey connects people and businesses that need something shipped with drivers that can load, haul, and deliver it. I worked on the React Native mobile app, Node backend, React consumer mobile website, and React administrator dashboard.
 
 - React Native
 - React
@@ -43,7 +43,7 @@ React Native mobile app and backend for gyms to run clean eating challenges. Use
 
 **Software Engineer**  
 _February 2017 - August 2017_  
-Built custom visualization interface for a healthcare app that enabled patients to chart their symptoms over time and see how they compared to other patients. Maintained and upgraded the ChoreMonster web interface as well as the company Wordpress site.
+I built a custom visualization interface for a healthcare app that enabled patients to chart their symptoms over time and see how they compared to other patients. I also maintained and upgraded the ChoreMonster web interface as well as the company Wordpress site.
 
 - React
 - Ruby on Rails
