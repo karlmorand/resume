@@ -1,7 +1,6 @@
 # Karl Morand
 
 **Web Developer**  
-[karlmorand.com](https://karlmorand.com/)  
 Cincinnati, Ohio
 
 ## Recent Projects
